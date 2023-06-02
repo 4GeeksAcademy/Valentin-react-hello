@@ -9,7 +9,7 @@ const Navbar = () => {
             Start Project
           </a>
           <button
-            className="navbar-toggler btn-light"
+            className="navbar-toggler bg-light"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
